@@ -75,7 +75,7 @@ export default function BirthdayContent() {
           Happy Birthday Rajni!
         </h1>
         <p className="text-xl text-gray-600 font-medium">
-          {!wishMade ? "Tap the flames to blow out your candles! 🎂" : "Yay! Make a wish! ✨"}
+          {!wishMade ? "Tap the flames to blow out your candles! 🎂" : "Yay! Make a wish! ✨ & scroll down"}
         </p>
       </motion.div>
 
