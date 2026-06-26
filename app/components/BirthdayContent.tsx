@@ -196,7 +196,7 @@ export default function BirthdayContent() {
               <div className="flex flex-col items-center gap-3">
                 <span className="text-7xl drop-shadow-lg mb-2">🍨</span>
                 <div>
-                  <p className="font-black text-yellow-700 text-2xl tracking-widest uppercase drop-shadow-sm">A Full Day For</p>
+                  <p className="font-black text-yellow-700 text-2xl tracking-widest uppercase drop-shadow-sm">A Full Day</p>
                   <p className="text-yellow-800 font-bold mt-2 text-xl">Butterscotch Ice Cream</p>
                   <div className="mt-4 inline-block bg-pink-100 px-4 py-1 rounded-full border border-pink-200">
                     <p className="text-pink-600 font-bold text-sm uppercase tracking-widest">(My Treat!)</p>
